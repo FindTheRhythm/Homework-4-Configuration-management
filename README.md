@@ -79,7 +79,7 @@
 
 ## Зависимости
 ```
-pip install -r requirements.txt
+pip install pyyaml
 ```
 
 ## Команда для запуска проекта
