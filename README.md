@@ -97,7 +97,7 @@ python -m unittest test_interpreter.py
 
 
 # Результат юнит-тестов программы
-![]()
+![](https://github.com/FindTheRhythm/Homework-4-Configuration-management/blob/8ced7794a1fc3602f7138214fcf0d28836eb3973/target_4/images/Screenshot%202024-12-04%20003636.png)
 
 # Результат работы программы
 ![](https://github.com/FindTheRhythm/Homework-4-Configuration-management/blob/436340578fb1ec72e53faee6c8fa4fda879a5e4b/target_4/images/Screenshot%202024-12-04%20003245.png)
