@@ -84,8 +84,6 @@ pip install -r requirements.txt
 
 ## Команда для запуска проекта
 ```
-# Пример команды запуска для графа зависимостей Newtonsoft.Json
-
 cd target_4
 python ./assembler/assembler.py input_assembler.asm output_assembler.bin log_assembler.yaml
 python ./interpreter/interpreter.py output_assembler.bin results.yaml 128 
