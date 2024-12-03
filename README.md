@@ -105,5 +105,5 @@ python -m unittest test_interpreter.py
 ![]()
 
 # Результат выполнения тестовой программы
-![]()
+![](https://github.com/FindTheRhythm/Homework-4-Configuration-management/blob/6976e706ee0181274be3f4511565c10c1cba84f1/target_4/images/Screenshot%202024-12-04%20003109.png)
 ![]()
