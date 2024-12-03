@@ -85,8 +85,8 @@ pip install pyyaml
 ## Команда для запуска проекта
 ```
 cd target_4
-python ./assembler/assembler.py input_assembler.asm output_assembler.bin log_assembler.yaml
-python ./interpreter/interpreter.py output_assembler.bin results.yaml 128 
+python assembler.py input_assembler.asm output_assembler.bin log_assembler.yaml
+python interpreter.py output_assembler.bin results.yaml 128 
 ```
 ## Команда для запуска юнит-тестов
 ```
